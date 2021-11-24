@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Broadcast;
 
 /*
 |--------------------------------------------------------------------------
-| Broadcast Channels
+| Broadcast Channel
 |--------------------------------------------------------------------------
 |
 | Here you may register all of the event broadcasting channels that your
